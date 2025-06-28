@@ -1,0 +1,8 @@
+{
+  "extends": "stylelint-config-standard",
+  "rules": {
+    "declaration-no-important": true,
+    "color-function-notation": "legacy",
+    "media-feature-range-notation": "prefix"
+  }
+}

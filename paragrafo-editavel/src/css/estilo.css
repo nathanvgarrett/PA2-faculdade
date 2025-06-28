@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+/* O resto do seu CSS vem depois */
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  padding: 25px;
+}
+
+h1, p, button{
+    color: #1c2f41;
+}
+
+.editavel {
+  padding: 2.5px;
+  color: black;
+  outline: none;
+  width: 15rem;
+  border: 3px solid #B3E1F2;
+}
+
+#botao-editor{
+    font-size: 12.5px;
+    color: black;
+    background-color: #B3E1F2;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 2.5rem;
+    font-weight: bold;
+}
